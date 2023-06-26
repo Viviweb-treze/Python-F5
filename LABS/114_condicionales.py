@@ -5,7 +5,7 @@ Ejercicio 1 - Trabajo con la instruccion if
 usuarioRespuesta = input(
     "¿Necesita enviar un paquete? (Ingrese si o no) -->  ")
 
-if usuarioRespuesta == "si":
+if usuarioRespuesta == "si" or "sí":
     print("¡Podemos ayudarlo a enviar ese paquete!")
 else:
     # Ejercicio 2 - Trabajo con la instruccion else
